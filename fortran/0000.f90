@@ -6,7 +6,7 @@ program main
     sum = 0
     do while (base <= lim)
         square = base**2
-        if (modulo(square, 2) == 1) sum = sum + square
+        if (mod(square, 2) == 1) sum = sum + square
         base = base + 1
     end do
     write(*, '("sum of all odd square numbers under 262000: ", I0)') sum
