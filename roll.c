@@ -7,7 +7,6 @@
     ENTRY(CHAPEL, Chapel) \
     ENTRY(CPP, C++) \
     ENTRY(FORTRAN, Fortran) \
-    ENTRY(FUTHARK, Futhark) \
     ENTRY(JULIA, Julia) \
     ENTRY(PASCAL, Pascal) \
     ENTRY(PYTHON, Python) \
