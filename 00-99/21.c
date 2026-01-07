@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #define STB_DS_IMPLEMENTATION
-#include "../stb_ds.h"
+#include "../external/stb_ds.h"
 
 int sum_of_factors(int n)
 {
